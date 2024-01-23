@@ -1,0 +1,1 @@
+print("knock, knock. \nwhos there?\nJoe\nJoe who?\nJOE MAMA!!! AHAHAHHAHAHAHAAHHAHAHAHAHAHHAHAHA!!!")
