@@ -12,3 +12,6 @@ elif b > a or b >= a: (print("your second number is greater or equal to than you
 
 if not a > b: print("your first number is not greater than your second")
 else: print("your first number is greater than your second")
+
+if not b >= a: print("your second number is not greater or equal to your first")
+else: print("your second number is greater or equal to your first")
