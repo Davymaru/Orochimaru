@@ -1,6 +1,31 @@
-gradepercent = float(input("what grade do you have?:"))
+gradepercent = int(input("\nEnter your grade: "))
 
-if gradepercent <
 
-if gradepercent > 0: print()
-elif gradepercent < 60: (print("you have an F, you failed"))
+
+
+
+lettergrade = "x"
+
+if gradepercent >= 90:
+    lettergrade = "A"
+elif gradepercent >= 80:
+    lettergrade = "B"
+elif gradepercent >= 70:
+    lettergrade = "C"
+elif gradepercent >= 60:
+    lettergrade = "D"
+elif gradepercent < 60:
+    lettergrade = "F"
+
+
+print("You got a", lettergrade)
+
+
+
+
+
+
+
+
+
+
